@@ -5,8 +5,9 @@ try:
         content = file.read()
     finally:
         file.close()
-except FileNotFoundError:
+except FileNotFoundError as r:
     print("File not found. Please provide the correct file name or path.")
+    print(r.args)
 except IOError as r:
     print("An error occurred while reading the file:", r)
 except Exception as w:
@@ -14,3 +15,5 @@ except Exception as w:
 else:
     print("File content:")
     print(content)
+finally:
+    print("Done")
