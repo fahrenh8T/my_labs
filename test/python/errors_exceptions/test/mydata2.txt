@@ -1,0 +1,10 @@
+The Witcher 3: Wild Hunt System Requirements (Minimum)
+CPU: Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940
+CPU SPEED: Info
+RAM: 6 GB
+VIDEO CARD: Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870
+DEDICATED VIDEO RAM: 2048 MB
+PIXEL SHADER: 5.0
+VERTEX SHADER: 5.0
+OS: 64-bit Windows 7, 64-bit Windows 8 (8.1) or 64-bit Windows 10
+FREE DISK SPACE: 35 GB
